@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapolupavans)](https://github.com/rapolupavans/github-readme-stats)
+
+
+<a href="https://github.com/rapolupavans">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rapolupavans&show_icons=true&line_height=27" alt="Priyatham's github stats"/>
+</a>
+<p align="center">
+Visitor count<br>
+<img src="https://profile-counter.glitch.me/priyathamhub/count.svg" />
+</p>
 <!--
 **rapolupavans/rapolupavans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
