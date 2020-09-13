@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapolupavans)](https://github.com/rapolupavans/github-readme-stats)
+
 
 <p align="center">
 Visitor count<br>
