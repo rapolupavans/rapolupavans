@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+### About me
+ A Geek with full of curiosity to learn new things especially in the area of **Cyber Security** and **Machine Learning**.
 
+ I am very much interested to crack programming challenges which make me think out of the box. 
+ 
 ## Find me around the web :globe_with_meridians:
 
 - Contact me on <a href="https://t.me/kickthebug">Telegram</a> 
@@ -15,7 +17,6 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=rapolupavans&show_icons=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rapolupavans&hide=css,java,html">
 </p>
-</details>
 
 <p align="center">
 Visitor count<br>
