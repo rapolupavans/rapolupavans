@@ -11,10 +11,7 @@
 - Practising Coding at <a href="https://www.sololearn.com/Profile/4315873/">SoloLearn</a>, <a href="https://www.hackerrank.com/rapolupavans">HackerRank</a>
 
 <br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=rapolupavans&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rapolupavans&hide=css,java,html&theme=tokyonight">
-</p>
+
 </details>
 
 <p align="center">
