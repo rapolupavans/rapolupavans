@@ -3,6 +3,13 @@
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
+## Find me around the web :globe_with_meridians:
+
+- Contact me on <a href="https://t.me/kickthebug">Telegram</a> 
+- Knowing updates on <a href="https://twitter.com/rapolupavans">Twitter</a>
+- Sharing updates on <a href="https://www.linkedin.com/in/rapolupavans/">LinkedIn</a>
+- Practising Coding at <a href="https://www.sololearn.com/Profile/4315873/">SoloLearn</a>, <a href="https://www.hackerrank.com/rapolupavans">HackerRank</a>
+
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=rapolupavans&show_icons=true&theme=tokyonight&line_height=27">
